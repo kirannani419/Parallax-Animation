@@ -2,7 +2,6 @@
 
 <p>This project is a web application built using HTML, CSS, JavaScript, and Bootstrap. It features a responsive design and provides a clean and modern interface for users. The assets such as stylesheets, scripts, fonts, and images are stored in the assets folder.</p>
 
-<br>
 
 <h3>Approach</h3>
 
@@ -20,10 +19,8 @@
     <li><b>index.html: </b>The main entry point for the web application, utilizing Bootstrap and custom CSS/JS to present the page.</li>
     <li><b>README.md: </b>Documentation to explain the project’s approach and setup.</li>
 </ul>
-<br>
 
 <h4>Technologies Used</h4>
-<br>
     <ul style="list-style-type:num">
         <li><b>HTML: </b>For structuring the web page and content.</li>
         <li><b>CSS: </b>For styling and layout of the page. Custom styles are added to customize the default Bootstrap design.</li>
@@ -31,10 +28,8 @@
         <li><b>Bootstrap: </b>A front-end framework that provides responsive grid layouts, predefined components, and utilities to quickly design a responsive and modern website.</li>
     </ul>
 
-<br>
 
 <h4>Key Features</h4>
-<br>
     <ul style="list-style-type:num">
         <li><b>Responsive Design: </b>Ensures the website adapts to different screen sizes and devices.</li>
         <li><b>Parallax Animation: </b>Creates a visually appealing effect by moving background elements at different speeds.</li>
@@ -45,7 +40,6 @@
 
 
 <h4>How to Use</h4>
-<br>
     <ul>
         <li>Clone this repository or download the files to your local machine.</li>
         <li>Open the index.html file in your preferred browser to view the website.</li>
